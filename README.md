@@ -2,6 +2,5 @@
 
 ### 30 Days of Wellness
 
-<video src="./Local/wellness.mp4" width="250" autoplay muted loop>
-
+<img src="./Local/welness.gif" alt="Wellness" width="250" height="500">
 <hr/>
